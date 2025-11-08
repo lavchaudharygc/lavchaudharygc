@@ -149,3 +149,4 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Connected Animation" width="350" height="200" />
 </div>
+<p align="center">💻 Crafted with ❤️ by Lav Chaudhary</p>
